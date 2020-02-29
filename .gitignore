@@ -1,0 +1,14 @@
+.idea/
+.~lock.Elevator_assignment.docx#
+elevator_19
+elevator_19_original
+ncurse_elevator_simulation
+out.txt
+out_original.txt
+log.txt
+*.o
+elevator
+.vscode/
+~$Report.docx
+~$Elevator_assignment.docx
+*.tmp
